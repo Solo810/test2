@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="CalcNumber">
+  <name>CalcNumber</name>
+  <uuid>af0fffe6-dc79-4788-9b10-6e25e6ef0565</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#151c47c8-e2b1-4e05-bf21-561f297f35dc"/>
+  <targetRuleProject href="../../CalcNumber#c11d9c3f-c5d1-49c9-ab70-7ceecf70026f"/>
+  <tags key="operationDescription">
+    <value><![CDATA[""]]></value>
+  </tags>
+  <tags key="operationName">
+    <value><![CDATA["isEligible"]]></value>
+  </tags>
+  <tags key="exposedAtRuntime">
+    <value><![CDATA[true]]></value>
+  </tags>
+</com.ibm.rules.studio.model.decisionservice:Operation>
